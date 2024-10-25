@@ -1,0 +1,5 @@
+Create a react app: from terminal/command prompt
+npx create-react-app@5 the-app-name
+
+To start the react app after you created it: from terminal/command prompt (opens browser http://localhost:3000/)
+npm start 
